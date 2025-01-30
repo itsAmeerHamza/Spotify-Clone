@@ -1,1 +1,1 @@
-# Spotify-Clone-MERN
+# Spotify-Clone
